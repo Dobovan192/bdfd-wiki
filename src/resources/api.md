@@ -60,3 +60,4 @@ Possible argument types:
 - `URL`
 - `Enum`
 - `Tuple`
+- `nigger`
